@@ -1,0 +1,80 @@
+
+    *{
+    margin: none;
+    padding:none;
+    box-sizing: border-box;  
+    } 
+
+body {
+
+    background-color:white;
+    margin: none;
+    padding:none;
+    box-sizing: border-box;
+}
+h3{
+    background-color:#0065C3;
+    color: white;
+    padding: 0 10px;
+    font-size: 30px;
+
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: auto;
+}
+
+.facts-containaer{
+  
+     display: flex;
+     justify-content:space-between;
+     margin: auto;
+}
+.facts-table{
+    
+   
+    width: 40%;
+ 
+  
+}
+.border{
+    border: solid;
+    padding: 2px;
+}
+.line-3{
+  height: 9px;
+    background-color: black;
+}
+
+.line-2{
+    height: 6px;
+      background-color: black;
+  }
+.line-1{
+    height: 2px;
+      background-color: black;
+  }
+.table-heading{
+    font-size:xx-large;
+    font-weight: bold;
+  
+}
+
+
+.calories-text{
+  font-size:x-large; 
+  font-weight: bold;
+}
+.daily-value{
+text-align: right;
+}
+
+.notes{
+    margin: 5px;
+    }
+.line-4{
+    height: 35px;
+    background: #0065C3;
+}
