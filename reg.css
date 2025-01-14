@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     /* background-color: #f4f4f4; */
-    background-color: #3165c5;
+    background-color: #437ce6;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -41,7 +41,7 @@ input {
 }
 
 button {
-    background-color: #3165c5;
+    background-color: #497ddd;
     color: white;
     padding: 10px;
     border: none;
@@ -50,5 +50,5 @@ button {
 }
 
 button:hover {
-    background-color: #4cae4c;
+    background-color: #bd4218;
 }
